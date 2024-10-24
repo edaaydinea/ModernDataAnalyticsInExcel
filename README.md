@@ -24,7 +24,11 @@ This section contains organized notes from the book, summarizing key concepts an
 
 #### Chapter 3: Transforming Rows in Power Query
 
+- [Chapter 3 Notes](./Chapter3/ch_03.xlsx)
+
 #### Chapter 4: Transforming Columns in Power Query
+
+- [Chapter 4 Notes](./Chapter4/ch_04.xlsx)
 
 #### Chapter 5: Merging and Appending Data in Power Query
 
@@ -65,7 +69,11 @@ This section includes solutions to exercises from the book, organized by chapter
 
 #### Chapter 3: Transforming Rows in Power Query
 
+- [Chapter 3 Solutions](./Chapter3/ch_03_exercises.xlsx)
+
 #### Chapter 4: Transforming Columns in Power Query
+
+- [Chapter 4 Solutions](./Chapter4/ch_04_exercises.xlsx)
 
 #### Chapter 5: Merging and Appending Data in Power Query
 
