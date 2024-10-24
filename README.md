@@ -20,6 +20,8 @@ This section contains organized notes from the book, summarizing key concepts an
 
 #### Chapter 2: First Steps in Excel Power Query
 
+- [Chapter 2 Notes](./Chapter2/ch_02.xlsx)
+
 #### Chapter 3: Transforming Rows in Power Query
 
 #### Chapter 4: Transforming Columns in Power Query
@@ -58,6 +60,8 @@ This section includes solutions to exercises from the book, organized by chapter
 - [Chapter 1 Solutions](./Chapter1/ch_01_exercises.xlsx)
 
 #### Chapter 2: First Steps in Excel Power Query
+
+- [Chapter 2 Solutions](./Chapter2/ch_02_exercises.xlsx)
 
 #### Chapter 3: Transforming Rows in Power Query
 
