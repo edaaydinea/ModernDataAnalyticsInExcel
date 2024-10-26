@@ -32,6 +32,8 @@ This section contains organized notes from the book, summarizing key concepts an
 
 #### Chapter 5: Merging and Appending Data in Power Query
 
+- [Chapter 5 Notes](./Chapter5/ch_05.xlsx)
+
 ### Part 2: Data Modeling and Analysis with Power Pivot
 
 #### Chapter 6: First Steps in Power Pivot
@@ -76,6 +78,8 @@ This section includes solutions to exercises from the book, organized by chapter
 - [Chapter 4 Solutions](./Chapter4/ch_04_exercises.xlsx)
 
 #### Chapter 5: Merging and Appending Data in Power Query
+
+- [Chapter 5 Solutions](./Chapter5/ch_05_exercises.xlsx)
 
 ### Part 2: Data Modeling and Analysis with Power Pivot
 
