@@ -38,15 +38,25 @@ This section contains organized notes from the book, summarizing key concepts an
 
 #### Chapter 6: First Steps in Power Pivot
 
+- [Chapter 6 Notes](./Chapter6/ch_06.xlsx)
+
 #### Chapter 7: Creating Relational Models in Power Pivot
 
-#### Chapter 8: Creating Measures and KPIs in Power Pivot
+- [Chapter 7 Notes](./Chapter7/ch_07.xlsx)
+
+#### Chapter 8: Creating Measures and KPIs in Power 
+
+- [Chapter 8 Notes](./Chapter8/ch_08.xlsx)
 
 #### Chapter 9: Intermediate DAX for Power Pivot
+
+- [Chapter 9 Notes](./Chapter9/ch_09.xlsx)
 
 ### Part 3: The Excel Data Analytics Toolkit
 
 #### Chapter 10: Introducing Dynamic Array Functions
+
+- [Chapter 10 Notes](./Chapter10/ch_10.xlsx)
 
 #### Chapter 11: Augmented Analytics and the Future of Excel
 
@@ -85,15 +95,25 @@ This section includes solutions to exercises from the book, organized by chapter
 
 #### Chapter 6: First Steps in Power Pivot
 
+- [Chapter 6 Solutions](./Chapter6/ch_06_exercises.ipynb)
+
 #### Chapter 7: Creating Relational Models in Power Pivot
 
-#### Chapter 8: Creating Measures and KPIs in Power Pivot
+- [Chapter 7 Solutions](./Chapter7/ch_07_exercises.xlsx)
+
+#### Chapter 8: Creating Measures and KPIs in Power Pivot 
+
+- [Chapter 8 Solutions](./Chapter8/ch_08_exercises.xlsx)
 
 #### Chapter 9: Intermediate DAX for Power Pivot
+
+- [Chapter 9 Solutions](./Chapter9/ch_09_exercises.xlsx)
 
 ### Part 3: The Excel Data Analytics Toolkit
 
 #### Chapter 10: Introducing Dynamic Array Functions
+
+- [Chapter 10 Solutions](./Chapter10/ch_10_exercises.xlsx)
 
 #### Chapter 11: Augmented Analytics and the Future of Excel
 
