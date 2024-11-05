@@ -60,7 +60,11 @@ This section contains organized notes from the book, summarizing key concepts an
 
 #### Chapter 11: Augmented Analytics and the Future of Excel
 
+- [Chapter 11 Notes](./Chapter11/ch_11.xlsx)
+
 #### Chapter 12: Python with Excel
+
+- [Chapter 12 Notes](./Chapter12/ch_12.ipynb)
 
 #### Chapter 13: Conclusion and Next Steps
 
@@ -117,9 +121,11 @@ This section includes solutions to exercises from the book, organized by chapter
 
 #### Chapter 11: Augmented Analytics and the Future of Excel
 
+- [Chapter 11 Solutions](./Chapter11/ch_11_exercises.xlsx)
+
 #### Chapter 12: Python with Excel
 
-#### Chapter 13: Conclusion and Next Steps
+- [Chapter 12 Solutions](./Chapter12/ch_12_exercises.ipynb)
 
 
 ## 🤝 Contributing
